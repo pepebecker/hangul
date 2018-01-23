@@ -1,5 +1,7 @@
 # Korean Transliteration Tool
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pepebecker/hangul.svg)](https://greenkeeper.io/)
+
 [![MIT-licensed](https://img.shields.io/github/license/pepebecker/hangul.svg)](https://opensource.org/licenses/MIT)
 [![chat on gitter](https://badges.gitter.im/pepebecker.svg)](https://gitter.im/pepebecker)
 
